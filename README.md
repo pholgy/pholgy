@@ -1,38 +1,22 @@
-# hey im pholgy 👋
+## Hi, I'm Pholgrit 👋
 
-**CTO @HanaHugTeam | Product Owner @deeplearn-life**
+CTO @HanaHugTeam • Product Owner @deeplearn-life
 
-> *basically i make computers talk and do cool stuff*
+Full-stack developer and data science graduate with 3+ years of experience building web applications and software solutions.
 
-[![Website](https://img.shields.io/badge/🌐-ph0lgy.dev-blue?style=flat-square)](https://ph0lgy.dev)
-[![Email](https://img.shields.io/badge/📧-email_me-red?style=flat-square)](mailto:pholgridnikolai@gmail.com)
+[Website](https://ph0lgy.dev) • [Email](mailto:pholgridnikolai@gmail.com)
 
----
+### Tech Stack
 
-## what i do
+**Languages:** Python • JavaScript • TypeScript • Scala • Go
 
-- 🤖 play with LLMs (yes, i talk to AI all day)
-- 🇹🇭 teach computers to understand Thai language
-- 💻 full-stack dev who refuses to choose between frontend and backend
-- 🎓 data science grad from Ubon Ratchathani Uni
-- ☕ 3+ years turning caffeine into code
+**Frontend:** React • Next.js • Tailwind CSS
 
-## my weapons of choice
+**Backend:** FastAPI • Node.js • Express
 
-**languages i speak (to computers)**
-`python` `javascript` `typescript` `scala` `go`
+**Database:** PostgreSQL • MongoDB • Redis
 
-**ai/ml stuff**
-`tensorflow` `pytorch` `transformers` `langchain`
-
-**frontend magic**
-`react` `next.js` `tailwind`
-
-**backend wizardry**
-`fastapi` `node.js` `express`
-
-**databases & other cool tools**
-`postgresql` `mongodb` `redis` `docker` `git` `aws`
+**Tools:** Docker • Git • AWS
 
 ## 📊 GitHub Stats
 
@@ -45,23 +29,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pholgy&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
 </div>
 
-## currently doing
+### About
 
-- being CTO at HanaHugTeam (yes i have meetings now 😭)
-- product owner at deeplearn-life
-- building AI stuff that actually works
-- making Thai NLP less painful
-- freelancing when i feel like it
+I work on building scalable web applications and leading technical teams. Currently focused on product development and software architecture.
 
-## lets talk
-
-always down to chat about AI, code, or why tabs are better than spaces
-
-- 🌐 [ph0lgy.dev](https://ph0lgy.dev)
-- 📧 pholgridnikolai@gmail.com
-
----
-
-<div align="center">
-  <sub>powered by coffee and stackoverflow</sub>
-</div>
+**Contact:** [ph0lgy.dev](https://ph0lgy.dev) • pholgridnikolai@gmail.com
