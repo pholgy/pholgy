@@ -2,9 +2,9 @@
 
 # Pholgrit Anongchai
 
-**CTO @HanaHugTeam • Product Owner @deeplearn-life**
+**AI/ML Engineer & Full-stack Developer**
 
-Full-stack developer building web apps and software solutions. 3+ years in the game.
+CTO @HanaHugTeam • Product Owner @deeplearn-life
 
 [![Website](https://img.shields.io/badge/ph0lgy.dev-000?style=flat-square&logo=safari&logoColor=white)](https://ph0lgy.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pholgridnikolai@gmail.com)
