@@ -60,6 +60,12 @@ turning complex problems into simple solutions.
 
 ---
 
+### Steam
+
+![Steam Status](https://github-readme-steam-card.vercel.app/status/?steamid=76561199228352661&show_in_game_bg=true&show_recent_game_bg=false)
+
+---
+
 ### GitHub Activity
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pholgy&theme=dark&hide_border=true&background=0d1117)
