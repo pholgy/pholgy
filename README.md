@@ -44,7 +44,7 @@ Full-stack developer building web apps and software solutions. 3+ years in the g
 
 ### Spotify
 
-[![Spotify](https://novatorem-pholgy.vercel.app/api/spotify)](https://open.spotify.com/user/pholgy)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lwo3iieo5hqpj4lgxld487ulk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
