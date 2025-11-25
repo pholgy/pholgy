@@ -66,12 +66,6 @@ turning complex problems into simple solutions.
 
 ---
 
-### GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=pholgy&theme=dark&hide_border=true&background=0d1117)
-
----
-
 ### Sleepy Hamster Runner
 
 [![Sleepy Hamster](https://raw.githubusercontent.com/pholgy/hamster-runner/main/assets/hamster-removebg-preview.png)](https://pholgy.github.io/hamster-runner/)
