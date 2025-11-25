@@ -72,6 +72,12 @@ turning complex problems into simple solutions.
 
 ---
 
+### Sleepy Hamster Runner
+
+[![Play Now](https://img.shields.io/badge/Play%20Now-🐹%20Sleepy%20Hamster%20Runner-orange?style=for-the-badge)](https://pholgy.github.io/hamster-runner/)
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=pholgy&color=blueviolet&style=flat-square&label=Views)
 
 </div>
