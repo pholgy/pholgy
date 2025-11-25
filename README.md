@@ -68,7 +68,7 @@ turning complex problems into simple solutions.
 
 ### GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pholgy&theme=dark&hide_border=true&background=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=pholgy&theme=dark&hide_border=true&background=0d1117)
 
 ---
 
