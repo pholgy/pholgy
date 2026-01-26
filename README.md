@@ -4,7 +4,7 @@
 
 **AI/ML Engineer & Full-stack Developer**
 
-AI Consultant @HanaHugTeam • Product Owner @deeplearn-life
+AI Software Engineer @IronSoftware • AI Consultant @HanaHugTeam
 
 [![Website](https://img.shields.io/badge/ph0lgy.dev-000?style=flat-square&logo=safari&logoColor=white)](https://ph0lgy.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pholgridnikolai@gmail.com)
