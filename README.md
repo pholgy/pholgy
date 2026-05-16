@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Pholgrit Anongchai
+# 👋 Hi, Yo
 
 ### AI/ML Engineer & Full-stack Developer
 
@@ -20,7 +20,6 @@
 
 ```yaml
 name: Pholgrit Anongchai
-nickname: Yo
 role: AI/ML Engineer & Full-stack Developer
 focus:
   - Building things that matter
