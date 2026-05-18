@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, Yo
+# 👋 Hi, me Yo
 
 ### AI/ML Engineer & Full-stack Developer
 
-🤖 AI Software Engineer **@IronSoftware** &nbsp;•&nbsp; 🧠 AI Consultant **@HanaHugTeam** &nbsp;•&nbsp; 🚀 Founding Engineer **@AxtraIntellion**
+AI Software Engineer **@IronSoftware** &nbsp;•&nbsp;  AI Consultant **@HanaHugTeam** &nbsp;•&nbsp;  Founding Engineer **@AxtraIntellion**
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧬 About Me
+## About Me
 
 ```yaml
 name: Pholgrit Anongchai
