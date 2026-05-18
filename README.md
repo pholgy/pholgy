@@ -118,13 +118,3 @@ interests:
 </div>
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=pholgy&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-**"Build things that matter."**
-
-⭐ From [pholgy](https://github.com/pholgy)
-
-</div>
