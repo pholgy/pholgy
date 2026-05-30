@@ -4,8 +4,6 @@
 
 ### AI/ML Engineer & Full-stack Developer
 
-AI Software Engineer **@IronSoftware** &nbsp;•&nbsp;  AI Consultant **@HanaHugTeam** &nbsp;•&nbsp;  Founding Engineer **@AxtraIntellion**
-
 <br/>
 
 [![Website](https://img.shields.io/badge/ph0lgy.dev-000?style=for-the-badge&logo=safari&logoColor=white)](https://ph0lgy.dev)
