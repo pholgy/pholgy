@@ -1,12 +1,14 @@
 <div align="center">
 
-# 👋 Hi, me Yo
+# 👋 Hi, I'm Yo
 
 ### AI/ML Engineer & Full-stack Developer
 
 <br/>
 
 [![Website](https://img.shields.io/badge/ph0lgy.dev-000?style=for-the-badge&logo=safari&logoColor=white)](https://ph0lgy.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pholgrit/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pholgridnikolai@gmail.com)
 
 </div>
 
@@ -82,6 +84,19 @@ interests:
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pholgy&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pholgy&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+> Remove this section if `pholgy` isn't your GitHub username, or swap in the correct one.
+
+---
+
 ## 🎮 Off the Clock
 
 <table>
@@ -89,12 +104,14 @@ interests:
 <td width="50%" align="center">
 
 ### 💬 Discord
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/212891060496629760)](https://discord.com/users/212891060496629760)
 
 </td>
 <td width="50%" align="center">
 
 ### 🎮 Steam
+
 ![Steam Status](https://github-readme-steam-card.vercel.app/status/?steamid=76561199228352661&show_in_game_bg=true&show_recent_game_bg=false)
 
 </td>
@@ -114,3 +131,9 @@ interests:
 </div>
 
 ---
+
+<div align="center">
+
+**📫 Let's connect** — [Website](https://ph0lgy.dev) · [LinkedIn](https://www.linkedin.com/in/pholgrit/) · [Email](mailto:pholgridnikolai@gmail.com)
+
+</div>
