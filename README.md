@@ -7,8 +7,6 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/ph0lgy.dev-000?style=for-the-badge&logo=safari&logoColor=white)](https://ph0lgy.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pholgridnikolai@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pholgrit/])
 
 </div>
 
